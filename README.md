@@ -4,5 +4,5 @@ Write a Python function that finds a smallest vertex cover in a given networkx g
 
 https://en.wikipedia.org/wiki/Vertex_cover.
 
-Write extensive tests for your funciton, including tests on large random graphs.
+Write extensive tests for your function, including tests on large random graphs.
 
